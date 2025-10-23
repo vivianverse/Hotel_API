@@ -8,6 +8,7 @@ You can host the backend using **MongoDB Atlas** for a cloud-based database solu
 ---
 
 # BASE URL
+https://hotel-api-ak2w.onrender.com
 https://hotel-qd7kitlh2-vivianverses-projects.vercel.app
 
 ## 🏗️ Project Structure
