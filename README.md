@@ -7,6 +7,33 @@ You can host the backend using **MongoDB Atlas** for a cloud-based database solu
 
 ---
 
+# BASE URL
+https://hotel-api-ak2w.onrender.com
+https://hotel-qd7kitlh2-vivianverses-projects.vercel.app
+## POSTMAN FOR ROOMS
+{
+  "roomNumber": "101",
+  "type": "Deluxe",
+  "price": 2500,
+  "status": "Available"
+}
+# FOR PUT
+"Occupied"
+
+## POSTMAN FOR GUESTS
+{
+  "name": "Maria Santos",
+  "email": "maria.santos@example.com",
+  "phone": "09171234567"
+}
+## POSTMAN FOR BOOKINGS
+{
+  "guestId": "6717a12e3e6d2345a12b45cd",
+  "roomId": "6717a12e3e6d2345a12b45cf",
+  "checkInDate": "2025-10-25",
+  "checkOutDate": "2025-10-28"
+}
+
 ## 🏗️ Project Structure
 ```
 project/
